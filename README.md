@@ -8,6 +8,7 @@ encourage the use of existing, common, sensible patterns.
 This is a living document and new ideas are always welcome. Please
 contribute.
 
+## Testing Tailor
 
 ## Translations
 
